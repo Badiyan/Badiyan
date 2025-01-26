@@ -20,7 +20,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" />
-<img align="left" alt="PytCharm" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png" />
+<img align="left" alt="PytCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/66/PyCharm_Edu_Icon.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
